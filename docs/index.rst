@@ -39,7 +39,7 @@ Goldfish           2
    :maxdepth: 9
    :caption: Contents:
 
-   Index <index>
+
 
 Indices and tables
 ==================
