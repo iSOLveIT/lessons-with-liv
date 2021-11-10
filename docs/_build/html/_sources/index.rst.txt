@@ -23,14 +23,12 @@ From Pluralsight lecture begin with the end in mind   .. image:: ../kays.png
 From Pluralsight lecture begin with the end in mind   .. image:: ../kays.png
 =================================================== ======================
 
-========= ======
-Pet       Qty
-========= ======
-Cat       1
-========= ======
-Goldfish  2
-========= ======
-
+================== ==========
+Pet                Qty
+================== ==========
+Cat                1
+Goldfish           2
+================== ==========
 
 
 2021-10-29 Fri  7:00 pm Accra (GMT) / 3:00 pm Toronto, 2 hour session
@@ -41,7 +39,7 @@ Goldfish  2
    :maxdepth: 9
    :caption: Contents:
 
-   Index <index>
+
 
 Indices and tables
 ==================
